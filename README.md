@@ -1,5 +1,8 @@
 # Evolutive-neural-networks
+
 An experiment on artificial evolution of neural networks
+
+**Fork - converting to typescript, need to run tsc -w to convert typescript to js
 
 https://morpheox.github.io/Evolutive-neural-networks/
 
